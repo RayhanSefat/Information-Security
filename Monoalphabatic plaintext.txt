@@ -1,0 +1,3 @@
+this is the plain text file
+first i will encrypt it
+then i will decrypt it
